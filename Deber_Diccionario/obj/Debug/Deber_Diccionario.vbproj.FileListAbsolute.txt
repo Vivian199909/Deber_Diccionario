@@ -1,0 +1,15 @@
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\bin\Debug\Deber_Diccionario.exe.config
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\bin\Debug\Deber_Diccionario.exe
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\bin\Debug\Deber_Diccionario.pdb
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\bin\Debug\Deber_Diccionario.xml
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.vbprojAssemblyReference.cache
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.Resources.resources
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.vbproj.GenerateResource.cache
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.exe
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.xml
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.pdb
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.frmMenu.resources
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.frmAgregar.resources
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.frmEliminar.resources
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.frmListar.resources
+C:\Users\Vivian\Documents\visual\Deber_Diccionario\Deber_Diccionario\obj\Debug\Deber_Diccionario.frmGuardar.resources
